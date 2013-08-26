@@ -1,0 +1,6 @@
+[submodule "lib/requirejs"]
+    path = js/vendor/requirejs/
+    url = gh:jrburke/requirejs.git
+[submodule "lib/mout"]
+    path = js/vendor/mout
+    url = gh:mout/mout.git
