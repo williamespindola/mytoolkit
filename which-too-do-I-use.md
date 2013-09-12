@@ -79,3 +79,6 @@ http://tableless.com.br/novos-plugins-jquery-e-bibliotecas-javascript/#.UZ54qopD
 
 ## Javascript test
 *  [jasmine-dom](https://github.com/jeffwatkins/jasmine-dom)
+
+## DNS
+*  [SPF Record Testing Tools](http://www.kitterman.com/spf/validate.html)
