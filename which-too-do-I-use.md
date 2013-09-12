@@ -82,3 +82,6 @@ http://tableless.com.br/novos-plugins-jquery-e-bibliotecas-javascript/#.UZ54qopD
 
 ## DNS
 *  [SPF Record Testing Tools](http://www.kitterman.com/spf/validate.html)
+
+## Server side monitoring
+*  [zabbix](http://www.zabbix.com/)
