@@ -12,6 +12,9 @@ This is document that lists many tools and frameworks to use on web development.
 ## Code editor
 *  [Brackets](http://brackets.io/)
 
+## Jobs
+*  [Angular Jobs](www.angularjobs.com)
+
 ## Grid front-end frameworks  
 
 *  [978 GS](http://978.gs/)
