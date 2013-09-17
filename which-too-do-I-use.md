@@ -9,6 +9,9 @@ This is document that lists many tools and frameworks to use on web development.
 *  [Bootstrap of jasny](http://jasny.github.io/bootstrap/index.html)
 *  [Pure](http://purecss.io/)
 
+## Code editor
+*  [Brackets](http://brackets.io/)
+
 ## Grid front-end frameworks  
 
 *  [978 GS](http://978.gs/)
