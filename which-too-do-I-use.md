@@ -94,3 +94,6 @@ http://tableless.com.br/novos-plugins-jquery-e-bibliotecas-javascript/#.UZ54qopD
 
 ## Game Engine
 *  [turbulenz](https://turbulenz.com/)
+
+## Browser suport
+*  [Can I use...](http://caniuse.com/)
