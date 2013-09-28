@@ -13,30 +13,15 @@ You can contributes whit a new idea, "dirtying the hands whit code" or including
 To include a new tool or topic you should fork and send a Pull Request to tools.json file. 
 Something like this:
 
-**new tool in existent topic**
+**new tool**
 
 ```json
 {
     "name": "name of tool here",
     "link": "link to tool site project",
-    "description": "short description"
+    "description": "short description",
+    "meta": ["meta 1", "meta 2"]
 }
-```
-
-**new topic**
-
-```json
-    {
-        "topic": "Name of topic",
-        "terms": "torms to find it",
-        "links": [
-            {
-                "name": "name of tool here",
-                "link": "link to tool site project",
-                "description": "short description"
-            }
-        ]
-    }
 ```
 
 ## History
