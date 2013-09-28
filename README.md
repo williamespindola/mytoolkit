@@ -1,33 +1,53 @@
-# What Tool Do I Use
+# Which Tool Do I Use?
 
-This is document that lists many tools and frameworks to use on web development.
-
-some already listed https://gist.github.com/williamespindola/5605013
-
-## Installation
-
-TODO: Describe the installation process
+Find whit tool do you can use in your project programming.
 
 ## Usage
 
-TODO: Write usage instructions
+Find bry terms, what you need.
 
 ## Contributing
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+You can contributes whit a new idea, "dirtying the hands whit code" or including a new tool.  
+
+To include a new tool or topic you should fork and send a Pull Request to tools.json file. 
+Something like this:
+
+**new tool in existent topic**
+
+```json
+{
+    "name": "name of tool here",
+    "link": "link to tool site project",
+    "description": "short description"
+}
+```
+
+**new topic**
+
+```json
+    {
+        "topic": "Name of topic",
+        "terms": "torms to find it",
+        "links": [
+            {
+                "name": "name of tool here",
+                "link": "link to tool site project",
+                "description": "short description"
+            }
+        ]
+    }
+```
 
 ## History
 
-TODO: Write history
+I needed a location to storege and that can be easy to find which tool do
+I use in my project or other.
 
 ## Credits
 
-TODO: Write credits
+[William Espindola](https://github.com/williamespindola)
 
 ## License
 
-TODO: Write license
+MIT

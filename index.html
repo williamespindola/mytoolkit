@@ -6,27 +6,47 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>What Tool Do I Use</title>
+        <title>Which Tool Do I Use</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
-
-        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-
-        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.3.0/pure-min.css">
         <link rel="stylesheet" href="css/main.css">
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
-        <!--[if lt IE 7]>
-            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
-        <![endif]-->
+        <div class="pure-g-r" id="layout">
 
-        <!-- Add your site or application content here -->
-        <p>What Tool Do I Use</p>
-
-        <script src="js/main.js"></script>
-
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+            <div class="sidebar pure-u">
+                <header class="header">
+                    <hgroup>
+                        <h1 class="brand-title">Which Tool Do I Use?</h1>
+                        <h2 class="brand-tagline">use<br>share<br>collaborate</h2>
+                    </hgroup>
+                    <nav class="nav">
+                        <ul class="nav-list">
+                            <li class="nav-item">
+                                <a class="pure-button" 
+                                    href="https://github.com/williamespindola/which-tool-do-i-use">Fork me on Github</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </header>
+            </div>
+            <main class="pure-u-1">
+                <input type="text" 
+                    name="find" 
+                    value="" 
+                    placeholder="find a project! ex:grid, framework" 
+                    class="search"
+                    id="search">
+                <div class="content">
+                    <section class="posts">
+                        <h1 class="content-subhead" id="look"></h1>
+                        <div id="projects"></div>
+                    </section>
+                </div>
+            </main>
+        </div>
+        <script data-main="js/main" src="js/lib/require.js"></script>
         <script>
             var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
             (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
