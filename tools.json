@@ -1,5 +1,11 @@
 [
     {
+        "name":"javascriptMVC",
+        "link": "http://javascriptmvc.com/",
+        "description": "JavaScriptMVC is an open-source framework containing the best ideas in jQuery development",
+        "meta": ["framework", "javascript framework", "mvc"]
+    },
+    {
         "name": "Foundation", 
         "link": "http://foundation.zurb.com/", 
         "description": "put description here",
