@@ -22,5 +22,11 @@
         "link": "http://www.docker.io/",
         "description": "Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more.",
         "meta": ["Docker", "linux containers", "lxc", "PaaS", "dotCloud", "docker", "pack", "portable"]
+    },
+    {
+        "name": "explainshell",
+        "link": "http://explainshell.com/",
+        "description": "write down a command-line to see the help text that matches each argument",
+        "meta": ["shell", "tutorial", "help shell"]
     }
 ]
