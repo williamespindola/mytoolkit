@@ -1,5 +1,11 @@
 [
     {
+        "name": "Googole Moderator",
+        "link": "https://www.google.com/moderator",
+        "description": "Helping the world find the best input from an audience of any size",
+        "meta": ["audience", "moderator", "talk"]
+    },
+    {
         "name":"javascriptMVC",
         "link": "http://javascriptmvc.com/",
         "description": "JavaScriptMVC is an open-source framework containing the best ideas in jQuery development",
