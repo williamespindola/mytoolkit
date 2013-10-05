@@ -1,5 +1,11 @@
 [
     {
+        "name": "jSFuck",
+        "link": "http://www.jsfuck.com/",
+        "description": "JSFuck is an esoteric and educational programming style based on the atomic parts of JavaScript. It uses only six different characters to write and execute code.",
+        "meta": ["javascript", "js", "fuck"]
+    },
+    {
         "name": "Bundler",
         "link": "http://bundler.io/",
         "description": "Bundler maintains a consistent environment for ruby applications. It tracks an application's code and the rubygems it needs to run, so that an application will always have the exact gems (and versions) that it needs to run.",
