@@ -1,0 +1,80 @@
+[
+    {
+        "name": "browserling",
+        "link": "https://browserling.com/",
+        "description": "interactive cross-browser testing",
+        "meta": ["javascript", "teste", "browser test"]
+    },
+    {
+        "name": "testling-ci",
+        "link": "http://ci.testling.com/",
+        "descrition": "run your browser tests on every push",
+        "meta": ["javascript", "test"]
+    },
+    {
+        "name": "140bytes",
+        "link": "https://github.com/jed/140bytes",
+        "description": "140byt.es is a tweet-sized, fork-to-play, community-curated collection of JavaScript",
+        "meta": ["bitwise", "tweet-sized", "javasciprt", "js"]
+    },
+    {
+        "name": "jSFuck",
+        "link": "http://www.jsfuck.com/",
+        "description": "JSFuck is an esoteric and educational programming style based on the atomic parts of JavaScript. It uses only six different characters to write and execute code.",
+        "meta": ["javascript", "js", "fuck"]
+    },
+    {
+        "name": "Bundler",
+        "link": "http://bundler.io/",
+        "description": "Bundler maintains a consistent environment for ruby applications. It tracks an application's code and the rubygems it needs to run, so that an application will always have the exact gems (and versions) that it needs to run.",
+        "meta": ["package manage", "manage", "package", "roby"]
+    },
+    {
+        "name": "EditorConfig",
+        "link": "http://editorconfig.org/",
+        "description": "EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems.",
+        "meta": ["text editor plugins", "editor", "file format", "editor config"]
+    },
+    {
+        "name": "Googole Moderator",
+        "link": "https://www.google.com/moderator",
+        "description": "Helping the world find the best input from an audience of any size",
+        "meta": ["audience", "moderator", "talk"]
+    },
+    {
+        "name":"javascriptMVC",
+        "link": "http://javascriptmvc.com/",
+        "description": "JavaScriptMVC is an open-source framework containing the best ideas in jQuery development",
+        "meta": ["framework", "javascript framework", "mvc"]
+    },
+    {
+        "name": "Foundation", 
+        "link": "http://foundation.zurb.com/", 
+        "description": "put description here",
+        "meta": ["css", "framework"]
+    },
+    {
+        "name": "Bootstrap", 
+        "link": "http://twitter.github.io/bootstrap/", 
+        "description": "put description here",
+        "meta": ["css", "framework"]
+    },
+    {
+        "name": "Bootstrap of jasny", 
+        "link": "http://jasny.github.io/bootstrap/index.html", 
+        "description": "put description here",
+        "meta": ["css"]
+    },
+    {
+        "name": "docker",
+        "link": "http://www.docker.io/",
+        "description": "Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more.",
+        "meta": ["Docker", "linux containers", "lxc", "PaaS", "dotCloud", "docker", "pack", "portable"]
+    },
+    {
+        "name": "explainshell",
+        "link": "http://explainshell.com/",
+        "description": "write down a command-line to see the help text that matches each argument",
+        "meta": ["shell", "tutorial", "help shell"]
+    }
+]

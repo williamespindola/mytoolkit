@@ -1,0 +1,21 @@
+<article class="post">
+    <header class="post-header">
+        <h2>Tool counter</h2>
+    </header>
+    <table class="pure-table pure-table-bordered">
+        <thead>
+            <tr>
+                <th>Description</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                {{#quantity}}
+                <td>{{name}}</td>
+                <td>{{number}}</td>
+                {{/quantity}}
+            </tr>
+        </tbody>
+    </table>
+</article>
