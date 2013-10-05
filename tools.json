@@ -1,5 +1,17 @@
 [
     {
+        "name": "browserling",
+        "link": "https://browserling.com/",
+        "description": "interactive cross-browser testing",
+        "meta": ["javascript", "teste", "browser test"]
+    },
+    {
+        "name": "testling-ci",
+        "link": "http://ci.testling.com/",
+        "descrition": "run your browser tests on every push",
+        "meta": ["javascript", "test"]
+    },
+    {
         "name": "140bytes",
         "link": "https://github.com/jed/140bytes",
         "description": "140byt.es is a tweet-sized, fork-to-play, community-curated collection of JavaScript",
