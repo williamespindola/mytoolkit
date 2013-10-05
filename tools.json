@@ -8,7 +8,7 @@
     {
         "name": "testling-ci",
         "link": "http://ci.testling.com/",
-        "descrition": "run your browser tests on every push",
+        "description": "run your browser tests on every push",
         "meta": ["javascript", "test"]
     },
     {
@@ -27,7 +27,7 @@
         "name": "Bundler",
         "link": "http://bundler.io/",
         "description": "Bundler maintains a consistent environment for ruby applications. It tracks an application's code and the rubygems it needs to run, so that an application will always have the exact gems (and versions) that it needs to run.",
-        "meta": ["package manage", "manage", "package", "roby"]
+        "meta": ["manage", "package", "roby"]
     },
     {
         "name": "EditorConfig",
@@ -45,7 +45,7 @@
         "name":"javascriptMVC",
         "link": "http://javascriptmvc.com/",
         "description": "JavaScriptMVC is an open-source framework containing the best ideas in jQuery development",
-        "meta": ["framework", "javascript framework", "mvc"]
+        "meta": ["framework", "javascript", "mvc"]
     },
     {
         "name": "Foundation", 

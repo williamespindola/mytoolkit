@@ -1,6 +1,12 @@
 require.config({
     baseUrl: 'js/lib',
-    paths : {hgn: 'hgn'},
+    paths : {
+        domReady: 'domReady/domReady',
+        text: 'text/text',
+        json: 'requirejs-plugins/src/json',
+        hogan: 'requirejs-hogan-plugin/hogan',
+        hgn: 'requirejs-hogan-plugin/hgn'
+    },
     hgn: {templateExtension: ".html"}
 });
 
@@ -11,17 +17,17 @@ require(
         'mout/src/string/contains', 
         'json!../../tools.json',
         'hgn!../../quantity-template',
-        'hgn!../../project-template'
+        'hgn!../../project-template',
+        'domReady'
     ],
     function(size, forEach, contains, tools, template, projectTemplate){
-        var data = {"quantity": {
-                        "name": "total projects", 
-                        "number":size(tools)
-                    }};
-
-        var projects = document.getElementById('projects')
-                               .innerHTML = template(data);
-
+        var data = {
+            "quantity": {
+                "name": "total projects", 
+                "number":size(tools)
+            }
+        };
+        document.getElementById('projects').innerHTML = template(data);
         document.getElementById('search')
                 .addEventListener("keyup", function(){
                     var value = this.value;
