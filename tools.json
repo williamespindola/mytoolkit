@@ -1,5 +1,11 @@
 [
     {
+        "name": "140bytes",
+        "link": "https://github.com/jed/140bytes",
+        "description": "140byt.es is a tweet-sized, fork-to-play, community-curated collection of JavaScript",
+        "meta": ["bitwise", "tweet-sized", "javasciprt", "js"]
+    },
+    {
         "name": "jSFuck",
         "link": "http://www.jsfuck.com/",
         "description": "JSFuck is an esoteric and educational programming style based on the atomic parts of JavaScript. It uses only six different characters to write and execute code.",
