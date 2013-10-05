@@ -8,11 +8,12 @@ require(
     [
         'mout/src/object/size', 
         'mout/src/array/forEach', 
+        'mout/src/string/contains', 
         'json!../../tools.json',
         'hgn!../../quantity-template',
         'hgn!../../project-template'
     ],
-    function(size, forEach, tools, template, projectTemplate){
+    function(size, forEach, contains, tools, template, projectTemplate){
         var data = {"quantity": {
                         "name": "total projects", 
                         "number":size(tools)
@@ -29,7 +30,7 @@ require(
                             .innerHTML  = 'look for ' + value;
                     tools.filter(function(a){
                         forEach(a.meta,function(meta){
-                            if (meta == value){
+                            if (contains(meta, value)){
                                 document.getElementById('projects')
                                         .innerHTML += projectTemplate(a);
                             }
