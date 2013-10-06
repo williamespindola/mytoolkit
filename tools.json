@@ -1,5 +1,11 @@
 [
     {
+        "name": "intention.js",
+        "link": "http://intentionjs.com/",
+        "description": "Intention.js offers a light-weight and clear way to dynamically restructure HTML in a responsive manner. Easily increase layout options and flexibility, reduce development time and lessen dependence on media-query-driven stylesheet overrides.",
+        "meta" : ["javascript", "responsive", "mananger"]
+    },
+    {
         "name": "Sinon.JS",
         "link": "http://sinonjs.org/",
         "description": "Standalone test spies, stubs and mocks for JavaScript.No dependencies, works with any unit testing framework.",
