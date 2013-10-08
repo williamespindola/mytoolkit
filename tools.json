@@ -1,5 +1,17 @@
 [
     {
+        "name": "Hayoo",
+        "link": "http://holumbus.fh-wedel.de/hayoo/hayoo.html",
+        "description": "Hayoo! will search all packages from Hackage, including all function and type definitions",
+        "meta": ["haskell", "source browser", "search"]
+    },
+    {
+        "name": "OpenGrok",
+        "link": "http://lxr.php.net/",
+        "description": 'OpenGrok - a "wicked fast" source browser!',
+        "meta": ["search", "source browser", "php"]
+    },
+    {
         "name": "staticgen",
         "link": "http://staticgen.com/",
         "description": "Top Static Site Generators Comparison",
