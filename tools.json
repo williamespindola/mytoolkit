@@ -1,9 +1,27 @@
 [
     {
+        "name": "elasticsearch",
+        "link": "http://www.elasticsearch.org/",
+        "description": "Elasticsearch is a powerful open source search and analytics engine that makes data easy to explore.",
+        "meta": ["search", "analytics"]
+    },
+    {
+        "name": "Lucene",
+        "link": "http://esprima.org/",
+        "description": "Esprima is a high performance, standard-compliant ECMAScript parser written in ECMAScript (also popularly known as JavaScript).",
+        "meta": ["ECMAScript", "javascript", "parser", "written"]
+    },
+    {
+        "name": "Lucene",
+        "link": "http://lucene.apache.org/",
+        "description": "The Apache LuceneTM project develops open-source search software, including",
+        "meta": ["apache", "search software"]
+    },
+    {
         "name": "Hayoo",
         "link": "http://holumbus.fh-wedel.de/hayoo/hayoo.html",
         "description": "Hayoo! will search all packages from Hackage, including all function and type definitions",
-        "meta": ["haskell", "source browser", "search"]
+        "meta": ["haskell", "source browser"]
     },
     {
         "name": "OpenGrok",
