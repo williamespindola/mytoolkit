@@ -1,5 +1,11 @@
 [
     {
+        "name": "DojoPuzzles.com",
+        "link": "http://www.dojopuzzles.com/",
+        "description": "Um Coding Dojo é um encontro onde um grupo de programadores se reúne para treinar técnicas e metodologias de desenvolvimento de software através da solução de um pequeno desafio de programação.",
+        "meta": ["dojo"]
+    },
+    {
         "name": "MetaBright",
         "link": "http://www.metabright.com/",
         "description": "MetaBright is the game that can land you your next job or internship!",
