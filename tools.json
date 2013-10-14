@@ -1,5 +1,11 @@
 [
     {
+        "name": "MetaBright",
+        "link": "http://www.metabright.com/",
+        "description": "MetaBright is the game that can land you your next job or internship!",
+        "meta" : ["Challenges", "training", "certification"]
+    },
+    {
         "name": "List of unit testing frameworks",
         "link": "http://en.wikipedia.org/wiki/List_of_unit_testing_frameworks",
         "description": "List of unit testing frameworks",
