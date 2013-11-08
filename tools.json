@@ -1,5 +1,17 @@
 [
     {
+        "name": "zeromq",
+        "link": "http://zeromq.org/",
+        "description": "The socket library that acts as a concurrency framework.",
+        "meta": ["messaging","caching", "cache"]
+    },
+    {
+        "name": "RabbitMQ",
+        "link": "http://www.rabbitmq.com/",
+        "description": "RabbitMQ is a complete and highly reliable enterprise messaging system based on the emerging AMQP standard",
+        "meta": ["messaging","caching", "cache"]
+    },
+    {
         "name": "DojoPuzzles.com",
         "link": "http://www.dojopuzzles.com/",
         "description": "Um Coding Dojo é um encontro onde um grupo de programadores se reúne para treinar técnicas e metodologias de desenvolvimento de software através da solução de um pequeno desafio de programação.",
