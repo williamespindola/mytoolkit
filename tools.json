@@ -1,5 +1,11 @@
 [
     {
+        "name": "Avgrund",
+        "link": "http://lab.hakim.se/avgrund/"
+        "description": "A modal concept which aims to give a sense of depth between the page and modal layers. Click the button below to give it a try.",
+        "meta": ["modal"]
+    },
+    {
         "name": "Bootstrap Switch",
         "link": "http://www.bootstrap-switch.org/",
         "description": "Turn checkboxes and radio buttons in toggle switches.",
