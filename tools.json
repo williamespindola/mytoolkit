@@ -1,5 +1,11 @@
 [
     {
+        "name": "Read the Docs",
+        "link": "https://readthedocs.org/",
+        "description": "Read the Docs hosts documentation, making it fully searchable and easy to find. You can import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar. We support webhooks so your docs get built when you commit code. There's also support for versioning so you can build docs from tags and branches of your code in your repository. A full list of features is available.",
+        "meta": ["documentation", "doc"]
+    },
+    {
         "name": "Avgrund",
         "link": "http://lab.hakim.se/avgrund/"
         "description": "A modal concept which aims to give a sense of depth between the page and modal layers. Click the button below to give it a try.",
