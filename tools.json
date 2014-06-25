@@ -1,5 +1,17 @@
 [
     {
+        "name": "Hackathon Starter",
+        "link": "https://github.com/tiimgreen/node",
+        "description": "A boilerplate for Node.js web applications.",
+        "meta": ["node", "boilerplate", "starter", "node.js"]
+    },
+    {
+        "name": "Animate.css",
+        "link": "http://daneden.github.io/animate.css/",
+        "description": "Just-add-water CSS animations",
+        "meta": ["flash", "message", "css", "animate", "alert"]
+    },
+    {
         "name": "sfml",
         "link": "http://sfml-dev.org/",
         "description": "Simple and Fast Multimedia Library",
