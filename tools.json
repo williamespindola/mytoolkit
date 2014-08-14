@@ -1,5 +1,11 @@
 [
     {
+        "name": "Moment.js",
+        "link": "http://momentjs.com/",
+        "description": "Parse, validate, manipulate, and display dates in javascript.",
+        "meta": ["dates", "javascript dates"]
+    },
+    {
         "name": "GitHub Cheat Sheet",
         "link": "https://github.com/tiimgreen/github-cheat-sheet",
         "description": "A collection of cool hidden and not so hidden features of Git and GitHub.",
