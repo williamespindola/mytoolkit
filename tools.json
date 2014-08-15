@@ -1,5 +1,11 @@
 [
     {
+        "name": "Crowdin",
+        "link": "https://crowdin.com/",
+        "description": "Crowdin is the on-demand software localization tool that makes translators collaboration efficient and smooth. Our online collaborative tool supports localization of web applications with absolutely innovative approach, mobile applications including iPhone, Android, WinMobile, Symbian and desktop software developed with Java, C/C++, PHP, .NET, Delphi and a lot of others.",
+        "meta": ["crowdsourced localization", "crowdsourced translation", "software localization", "web localization", "internationalization", "software translation", "multilanguage", "localization", "translation memory", "computer assisted translation", "collaborative translation", "online translation", "Android localize", "apk localize", "gettext", "dklang", "qt ts", "android", "localization asp.net", ".net", "ios localization"]
+    },
+    {
         "name": "Moment.js",
         "link": "http://momentjs.com/",
         "description": "Parse, validate, manipulate, and display dates in javascript.",
