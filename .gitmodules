@@ -3,16 +3,16 @@
 	url = https://github.com/mout/mout/
 [submodule "js/lib/domReady"]
 	path = js/lib/domReady
-	url = git@github.com:requirejs/domReady.git
+	url = https://github.com:requirejs/domReady.git
 [submodule "js/lib/requirejs"]
 	path = js/lib/requirejs
-	url = git@github.com:jrburke/requirejs.git
+	url = https://github.com:jrburke/requirejs.git
 [submodule "js/lib/text"]
 	path = js/lib/text
-	url = git@github.com:requirejs/text.git
+	url = https://github.com:requirejs/text.git
 [submodule "js/lib/requirejs-plugins"]
 	path = js/lib/requirejs-plugins
-	url = git@github.com:millermedeiros/requirejs-plugins.git
+	url = https://github.com:millermedeiros/requirejs-plugins.git
 [submodule "js/lib/requirejs-hogan-plugin"]
 	path = js/lib/requirejs-hogan-plugin
-	url = git@github.com:millermedeiros/requirejs-hogan-plugin.git
+	url = https://github.com:millermedeiros/requirejs-hogan-plugin.git
