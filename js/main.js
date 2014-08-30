@@ -31,6 +31,11 @@ require(
         document.getElementById('search')
                 .addEventListener("keyup", function(){
                     var value = this.value;
+                    if (value == '') {
+                        document.getElementById('projects').innerHTML  = '';
+                        return;
+                    }
+
                     document.getElementById('projects').innerHTML  = '';
                     document.getElementById('look')
                             .innerHTML  = 'look for ' + value;
