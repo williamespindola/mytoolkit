@@ -1,18 +1,18 @@
 [submodule "js/lib/mout"]
 	path = js/lib/mout
-	url = https://github.com/mout/mout/
+	url = git://github.com/mout/mout.git
 [submodule "js/lib/domReady"]
 	path = js/lib/domReady
-	url = https://github.com:requirejs/domReady.git
+	url = git://github.com/requirejs/domReady.git
 [submodule "js/lib/requirejs"]
 	path = js/lib/requirejs
-	url = https://github.com:jrburke/requirejs.git
+	url = git://github.com/jrburke/requirejs.git
 [submodule "js/lib/text"]
 	path = js/lib/text
-	url = https://github.com:requirejs/text.git
+	url = git://github.com/requirejs/text.git
 [submodule "js/lib/requirejs-plugins"]
 	path = js/lib/requirejs-plugins
-	url = https://github.com:millermedeiros/requirejs-plugins.git
+	url = git://github.com/millermedeiros/requirejs-plugins.git
 [submodule "js/lib/requirejs-hogan-plugin"]
 	path = js/lib/requirejs-hogan-plugin
-	url = https://github.com:millermedeiros/requirejs-hogan-plugin.git
+	url = git://github.com/millermedeiros/requirejs-hogan-plugin.git
