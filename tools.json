@@ -144,7 +144,6 @@
         "meta" : ["javascript", "responsive", "mananger"]
     },
     {
->>>>>>> develop
         "name": "Sinon.JS",
         "link": "http://sinonjs.org/",
         "description": "Standalone test spies, stubs and mocks for JavaScript.No dependencies, works with any unit testing framework.",
