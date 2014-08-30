@@ -1,5 +1,11 @@
 [
     {
+        "name": "slick",
+        "link": "http://kenwheeler.github.io/slick/",
+        "description": "the last carousel you'll ever need",
+        "meta": ["carousel", "javascript", "jquery"]
+    },
+    {
         "name": "Crowdin",
         "link": "https://crowdin.com/",
         "description": "Crowdin is the on-demand software localization tool that makes translators collaboration efficient and smooth. Our online collaborative tool supports localization of web applications with absolutely innovative approach, mobile applications including iPhone, Android, WinMobile, Symbian and desktop software developed with Java, C/C++, PHP, .NET, Delphi and a lot of others.",
