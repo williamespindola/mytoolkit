@@ -1,5 +1,23 @@
 [
     {
+        "name": "Crowdin",
+        "link": "https://crowdin.com/",
+        "description": "Crowdin is the on-demand software localization tool that makes translators collaboration efficient and smooth. Our online collaborative tool supports localization of web applications with absolutely innovative approach, mobile applications including iPhone, Android, WinMobile, Symbian and desktop software developed with Java, C/C++, PHP, .NET, Delphi and a lot of others.",
+        "meta": ["crowdsourced localization", "crowdsourced translation", "software localization", "web localization", "internationalization", "software translation", "multilanguage", "localization", "translation memory", "computer assisted translation", "collaborative translation", "online translation", "Android localize", "apk localize", "gettext", "dklang", "qt ts", "android", "localization asp.net", ".net", "ios localization"]
+    },
+    {
+        "name": "Moment.js",
+        "link": "http://momentjs.com/",
+        "description": "Parse, validate, manipulate, and display dates in javascript.",
+        "meta": ["dates", "javascript dates"]
+    },
+    {
+        "name": "GitHub Cheat Sheet",
+        "link": "https://github.com/tiimgreen/github-cheat-sheet",
+        "description": "A collection of cool hidden and not so hidden features of Git and GitHub.",
+        "meta": ["github"]
+    },
+    {
         "name": "Hackathon Starter",
         "link": "https://github.com/tiimgreen/node",
         "description": "A boilerplate for Node.js web applications.",
@@ -25,7 +43,7 @@
     },
     {
         "name": "Avgrund",
-        "link": "http://lab.hakim.se/avgrund/"
+        "link": "http://lab.hakim.se/avgrund/",
         "description": "A modal concept which aims to give a sense of depth between the page and modal layers. Click the button below to give it a try.",
         "meta": ["modal"]
     },
@@ -110,7 +128,7 @@
     {
         "name": "OpenGrok",
         "link": "http://lxr.php.net/",
-        "description": 'OpenGrok - a "wicked fast" source browser!',
+        "description": "OpenGrok - a wicked fast source browser!",
         "meta": ["search", "source browser", "php"]
     },
     {
