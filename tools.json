@@ -1,5 +1,11 @@
 [
     {
+        "name": "AdminLTE",
+        "link": "http://almsaeedstudio.com/",
+        "description": "Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x",
+        "meta": ["Admin", "Panel", "bootstrap"]
+    },
+    {
         "name": "slick",
         "link": "http://kenwheeler.github.io/slick/",
         "description": "the last carousel you'll ever need",
