@@ -1,5 +1,11 @@
 [
     {
+        "name": "Gitter",
+        "link": "https://gitter.im",
+        "description": "Chat. For GitHub",
+        "meta": ["chat", "chat online", "irc alternative", "github chat"]
+    },
+    {
         "name": "AdminLTE",
         "link": "http://almsaeedstudio.com/",
         "description": "Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x",
