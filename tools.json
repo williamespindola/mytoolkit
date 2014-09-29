@@ -1,5 +1,11 @@
 [
     {
+        "name": "jsPerf",
+        "link": "http://jsperf.com/",
+        "description": "JavaScript performance playground",
+        "meta": ["performance", "playground", "javascript"]
+    },
+    {
         "name": "Gitter",
         "link": "https://gitter.im",
         "description": "Chat. For GitHub",
