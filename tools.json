@@ -1,5 +1,11 @@
 [
     {
+        "name": "OpenCV",
+        "link": "http://opencv.org/",
+        "description": "OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.",
+        "meta": ["OpenCV", "Vision Library"]
+    },
+    {
         "name": "tesseract-ocr",
         "link": "https://code.google.com/p/tesseract-ocr/",
         "description": "An OCR Engine that was developed at HP Labs between 1985 and 1995... and now at Google.",
