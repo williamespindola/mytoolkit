@@ -1,5 +1,11 @@
 [
     {
+        "name": "tesseract-ocr",
+        "link": "https://code.google.com/p/tesseract-ocr/",
+        "description": "An OCR Engine that was developed at HP Labs between 1985 and 1995... and now at Google.",
+        "meta": ["OCR"]
+    },
+    {
         "name": "jsPerf",
         "link": "http://jsperf.com/",
         "description": "JavaScript performance playground",
