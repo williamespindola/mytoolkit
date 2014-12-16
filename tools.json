@@ -1,5 +1,11 @@
 [
     {
+        "name": "CKeditor",
+        "link": "http://ckeditor.com/",
+        "description": "CKEditor is a free, Open Source HTML text editor designed to simplify website content creation. It's a WYSIWYG editor that brings common word processor features directly to your web pages. Enhance your website experience with this community maintained editor.",
+        "meta": ["ckeditor", "wysiwyg", "skins", "text", "editor"]
+    },
+    {
         "name": "Highcharts",
         "link": "http://www.highcharts.com/",
         "description": "Highcharts - Interactive JavaScript charts for your web pages.",
