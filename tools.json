@@ -1,14 +1,14 @@
 [
     {
-        "name", "superslides",
+        "name": "superslides",
         "link": "http://nicinabox.com/superslides/",
-        "description", "Superslides - A fullscreen slider for jQuery",
+        "description": "Superslides - A fullscreen slider for jQuery",
         "meta": ["jquery", "plugin", "slides", "fullscreen"]
     },
     {
-        "name", "jQuery Easing Plugin",
+        "name": "jQuery Easing Plugin",
         "link": "http://gsgd.co.uk/sandbox/jquery/easing",
-        "description", "A jQuery plugin from GSGD to give advanced easing options.",
+        "description": "A jQuery plugin from GSGD to give advanced easing options.",
         "meta": ["jquery", "plugin", "effects", "easing"]
     },
     {
