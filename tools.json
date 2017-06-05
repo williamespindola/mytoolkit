@@ -1,5 +1,11 @@
 [
     {
+        "name": "Mondrian",
+        "link": "https://github.com/Trismegiste/Mondrian",
+        "description": "A static php code analysis tool using the Graph Theory",
+        "meta": ["php", "code analysis", "analysis", "Graph", "Graph Theory"]
+    },
+    {
         "name": "superslides",
         "link": "http://nicinabox.com/superslides/",
         "description": "Superslides - A fullscreen slider for jQuery",
