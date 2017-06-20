@@ -1,5 +1,11 @@
 [
     {
+        "name": "siege",
+        "link": "https://www.joedog.org/siege-home/",
+        "description": "Siege is an http load tester and benchmarking utility",
+        "meta": ["benchmarking", "measure"]
+    },
+    {
         "name": "superslides",
         "link": "http://nicinabox.com/superslides/",
         "description": "Superslides - A fullscreen slider for jQuery",
